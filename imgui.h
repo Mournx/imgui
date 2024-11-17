@@ -29,8 +29,6 @@
 #define IMGUI_HAS_VIEWPORT          // Viewport WIP branch
 #define IMGUI_HAS_DOCK              // Docking WIP branch
 
-/*
-
 Index of this file:
 // [SECTION] Header mess
 // [SECTION] Forward declarations and basic types
